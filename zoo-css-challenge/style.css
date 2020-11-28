@@ -108,7 +108,7 @@ footer {
 .image-container img {
   vertical-align: top;
   border: 5px solid #747c92;
-}
+  }
 
 
 #bearpic1 {
@@ -130,7 +130,7 @@ footer {
 }
 
 .image-container img:first-of-type {
-  vertical-align: bottom;
+  vertical-align: top;
 }
 
 
